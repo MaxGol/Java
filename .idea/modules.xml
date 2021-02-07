@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatsAndDoubles/FloatsAndDoubles.iml" filepath="$PROJECT_DIR$/FloatsAndDoubles/FloatsAndDoubles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROJECTS.iml" filepath="$PROJECT_DIR$/PROJECTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumDigits/SumDigits.iml" filepath="$PROJECT_DIR$/SumDigits/SumDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biteLongShort/biteLongShort.iml" filepath="$PROJECT_DIR$/biteLongShort/biteLongShort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengePoundsToKg/challengePoundsToKg.iml" filepath="$PROJECT_DIR$/challengePoundsToKg/challengePoundsToKg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forLoop/forLoop.iml" filepath="$PROJECT_DIR$/forLoop/forLoop.iml" />
+    </modules>
+  </component>
+</project>

@@ -7,7 +7,6 @@ public class Hello {
         int number = 5;
         int secondNumber = 12;
         int thirdNumber = 10;
-        System.out.println(number, secondNumber, thirdNumber);
         System.out.println(number + num);
     }
 }
