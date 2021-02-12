@@ -1,7 +1,7 @@
 public class NumberPalindrome {
     public static void main (String[] args) {
         System.out.println("done");
-        isPolindrome(123421);
+        isPolindrome(1234);
     }
     public static Boolean isPolindrome(int number) {
         int temp, sum = 0, reminder;
